@@ -1,0 +1,8 @@
+# Configuration for git attributes
+*.yml linguist-detectable=false
+*.html linguist-vendored
+*.py linguist-detectable
+**/*.py linguist-detectable
+public/**/*.html linguist-vendored
+
+*.map linguist-generated
