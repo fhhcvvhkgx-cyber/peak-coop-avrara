@@ -1,0 +1,5 @@
+.mypy_cache/
+env/
+.venv/
+*.egg-info/
+*.py[cod]
